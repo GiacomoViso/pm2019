@@ -18,7 +18,6 @@ AdoptaAhora.com es básicamente una web page en donde el usuario podrá registra
 La principal visión de AdoptaAhora.com es ser reconocido a nivel nacional con el transcurrir del tiempo y ser usado por al menos el 75% de personas que quieran adoptar una mascota. Sin embargo, otra de nuestra misión es el de combatir con la venta ilegal de los animales. Fomentar el respeto de los derechos y necesidades de los animales. Fomentamos el respeto a los derechos y necesidades de los animales y luchamos para que la sociedad sea consciente de que sus problemas nos afectan a todos. La violencia y la incultura está en la raíz de los ultrajes que sufren los animales, pero estos no son sus únicas víctimas.
 
 3. Público objetivo:
-Con la técnica “PERSONAS” Describir detalladamente el público al   cual va dirigido el producto..
 Nombre: Omar
 Edad: 43
 Sexo: Masculino
