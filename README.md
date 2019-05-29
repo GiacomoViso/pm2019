@@ -9,7 +9,7 @@ Bloque: FC-PREINF04B1T
 
 INTEGRANTES:
 VISO CASTILLO, GIACOMO DE CARLO					1512415
-
+SANTAMARIA LOPEZ, DIEGO 1510108
 I. Descripción del producto
 1. Nombre propio del producto: AdoptaAhora.com
 AdoptaAhora.com es básicamente una web page en donde el usuario podrá registrarse, ingresar y adoptar una mascota, como también tendrá la opción de realizar depósitos con el fin de contribuir a nuestra misión y más que todo a apoyar en los gastos que habría, es decir, vacunas, comida, y medicamentos para desparasitar, entre otros gastos que se puedan presentar, la principal es idea es hacer más fácil este proceso.
